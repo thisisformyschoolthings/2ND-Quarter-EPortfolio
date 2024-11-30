@@ -41,7 +41,7 @@ This is my Second Quarter E-Portfolio! ENJOY!!!
 </p>
 
 <br> <br>
-<div><a href="ICT-EPORTFOLIO2.html">First Quarter</a></div>
+<div> <p align="center"> <a href="ICT-EPORTFOLIO2.html">First Quarter</a> </p> </div>
 
 
 
