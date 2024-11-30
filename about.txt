@@ -35,8 +35,8 @@ Second Quarter E-Portfolio
 
 </p>
 
-<p align="center"> <img src="C:\Users\bianca\OneDrive\Documents\ICT Pt\PAYPAY.jfif" width="60% height="60%> </p>
-<p align="center"> <img src= "C:\Users\bianca\OneDrive\Documents\ICT Pt\ME.jfif" width="80% height="80%> </p>
+<p align="center"> <img src="PAYPAY.jfif" width="60% height="60%> </p>
+<p align="center"> <img src= "ME.jfif" width="80% height="80%> </p>
 
 
 
